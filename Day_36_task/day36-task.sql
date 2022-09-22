@@ -1,5 +1,6 @@
 
 //Day 36 task- bolt sql
+<img src="./screenshots_sqlbolts">
 //EXERCISE-1
 //qn1
 SELECT Title FROM movies;
